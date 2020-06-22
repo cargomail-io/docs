@@ -40,6 +40,7 @@ $gray-700: #495057 !default;
 $gray-800: #333 !default;
 $gray-900: #222 !default;
 $black: #000 !default;
+$darkblue: #024 !default;
 
 $code-color: darken($secondary, 20%) !default;
 
@@ -124,7 +125,7 @@ $pagination-disabled-color: $gray-300 !default;
 
 $navbar-dark-color: rgba($white, 0.75) !default;
 $navbar-dark-hover-color: rgba($white, 0.5) !default;
-$navbar-dark-active-color: $white !default;
+$navbar-dark-active-color: $darkblue !default;
 $navbar-dark-disabled-color: rgba($white, 0.25) !default;
 
 // The yiq lightness value that determines when the lightness of color changes from "dark" to "light".
