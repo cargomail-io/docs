@@ -1,2 +1,2 @@
 # docs
-Cargomail docs
+Cargomail Documentation
